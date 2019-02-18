@@ -1,0 +1,4 @@
+GetVehicles 2
+copy str
+method2 Hello
+method1 2 3

@@ -1,0 +1,1120 @@
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:29:00
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:29:01
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:29:01
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:29:01
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:29:01
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:29:22
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:29:23
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:30:01
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:30:02
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:30:38
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:30:39
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:30:39
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:30:39
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:30:39
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:31:22
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:31:23
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:31:23
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:31:23
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:31:23
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:32:58
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:32:59
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:32:59
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:32:59
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:32:59
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:33:37
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:33:38
+
+*******Getting disk info*******
+File or directory name   		--->	D:\
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting file system of disk*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting free disk space*******
+File or directory name   		--->	C:\
+Full path                		--->	C:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting creating time of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting file info*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting full path of file*******
+File or directory name   		--->	file.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\file.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting creation time of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting count of files in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting parent of input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Getting count of subdirectories in input directory*******
+File or directory name   		--->	D:\3_semestr
+Full path                		--->	D:\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating new directory*******
+File or directory name   		--->	MYSInspect
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Writing in file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Copying file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Deleting new file*******
+File or directory name   		--->	MYSDirInfo.txt
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSDirInfo.txt
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating new directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating new directory*******
+File or directory name   		--->	3_semestr
+Full path                		--->	D:\3_semestr
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Copying file*******
+File or directory name   		--->	Matem-FIT-stac-k-ekz-3sem.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Matem-FIT-stac-k-ekz-3sem.pdf
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Copying file*******
+File or directory name   		--->	Nachertateljnaya-geometriya.pdf
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\Nachertateljnaya-geometriya.pdf
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Deleting directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSFiles
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Deleting file*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Zipping directory*******
+File or directory name   		--->	MYSFiles
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\MYSFiles\
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Creating new directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Deleting directory*******
+File or directory name   		--->	ZipArchive
+Full path                		--->	D:\3_semestr\OOTP\LR№13\MYSInspect\ZipArchive
+Date and time            		--->	28.11.2018 17:33:58
+
+*******Extracting files*******
+File or directory name   		--->	Archive.zip
+Full path                		--->	D:\3_semestr\OOTP\LR№13\Archive.zip
+Date and time            		--->	28.11.2018 17:33:59

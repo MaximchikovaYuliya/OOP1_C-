@@ -1,0 +1,33 @@
+   Files in D:\ 
+D:\Server1.vdi
+D:\Server2.vdi
+D:\Win7-1.vdi
+D:\Win7-2.vdi
+D:\~$ветыОАИП.docx
+D:\~$ОАИП.docx
+   Catalogs in D:\ 
+D:\$RECYCLE.BIN
+D:\1_semestr
+D:\2_semestr
+D:\3_semestr
+D:\Admin
+D:\AMD
+D:\Avast
+D:\CCleaner
+D:\DeliveryOptimization
+D:\Git
+D:\KMPlayer
+D:\Kompas
+D:\MapData
+D:\MonitorTest
+D:\msdownld.tmp
+D:\Opera
+D:\Personal
+D:\ProgramData
+D:\SiSoftware Sandra Lite Titanium.SP1b
+D:\System Volume Information
+D:\VirtualBox
+D:\VisualStudio
+D:\WindowsApps
+D:\WpSystem
+D:\В
